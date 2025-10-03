@@ -1,4 +1,4 @@
-# CS 110A Zamambo Mkhize Names_and_Age Categories Program
+#Zamambo Mkhize Names_and_Age Categories Program
 
 def names_and_age():
     name_1 = input('\nPlease enter the name of one person: ')
